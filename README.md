@@ -19,3 +19,4 @@ Supported flags:
  * #: alternate form (only for floats at the moment)
 
 Refer to http://www.cplusplus.com/reference/cstdio/printf/ for details
+See https://github.com/Simn/hxprintf/blob/master/src/Main.hx for examples
