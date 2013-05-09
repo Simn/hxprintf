@@ -1,0 +1,25 @@
+-cp src
+-main Main
+-dce full
+--each
+
+-neko bin/hxprintf.n
+
+--next
+-swf bin/hxprintf.swf
+
+--next
+-swf-version 8
+-swf bin/hxprintf8.swf
+
+--next
+-js bin/hxprintf.js
+
+--next
+-php bin/php
+
+--next
+-cpp bin/cpp
+
+#--next
+#-java bin/java
