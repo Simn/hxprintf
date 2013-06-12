@@ -1,0 +1,12 @@
+{
+        "name": "hxprintf",
+        "url" : "https://github.com/Simn/hxprintf",
+        "license": "MIT",
+	"classPath": "src",
+        "tags": [],
+        "description": "Simple printf implementation using hxparse",
+        "version": "0.0.1",
+        "releasenote": "",
+        "contributors": ["Simn"]
+}
+
